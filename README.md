@@ -3,12 +3,12 @@ Some few code stuff to show a little of my programming skills
 
 In this sample, it is shown how to youse LyncClient to start calls.
 
-The Cass LyncCall:
+The Class LyncCall:
 - Start the call itself. It is possible to call people within ones contactlist or any other number.
 - Group calls are possible.
 - All calls are logged in the database (Entity Framework)
 
-The Cass PhoneNumber:
+The Class PhoneNumber:
 - Is used to pass LyncCall a defined phonenumber syntax.
 - Returns a formated phonenumber which can be used in GUIs.
 
