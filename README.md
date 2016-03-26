@@ -24,7 +24,7 @@ Call Logging:
 - Outgoing calls will be logged in the database.
 - Callinformations: From, To, Date/Time, call to user in contactlist (true/false).
 
-LyncSampleUser
+LyncSampleUser:
 - Contains a simple WPF Window.
 - Phonenumber can be added and a call started.
 - Simple exceptionhandling.
