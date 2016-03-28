@@ -6,8 +6,8 @@
     <ProjectGuid>{8C2CCB6A-94D7-4157-B404-82D9CE8E674E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LyncSampleTests</RootNamespace>
-    <AssemblyName>LyncSampleTests</AssemblyName>
+    <RootNamespace>LyncSample.Tests</RootNamespace>
+    <AssemblyName>LyncSample.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

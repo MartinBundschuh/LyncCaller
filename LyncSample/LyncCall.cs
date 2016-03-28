@@ -5,7 +5,8 @@ using System.Collections.Generic;
 using System.Net.Mail;
 using System.Threading.Tasks;
 
-namespace LyncSample.Data{
+namespace LyncSample.Data
+{
     /// <summary>
     /// Class wich u can use to start Lync Calls and Conferecnes
     /// </summary>
