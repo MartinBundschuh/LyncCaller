@@ -3,7 +3,7 @@
 In this sample, it is shown how to youse LyncClient to start calls. 
 Therefore the MVVM Patteren is used aswell as Entity Framework
 
-*Projekt .Data
+*Projekt .<b>Data</b>
 
 The Class LyncCall:
 - Start the call itself. It is possible to call people within ones contactlist or any other number.
@@ -24,14 +24,14 @@ Call Logging:
 - Etity Framework implemented with a simple datatable and localhost.
 
 
-*Projekt .Tests
+*Projekt .<b>Tests</b>
 
 TestClasses:
 - Just a few standard UnitTests.
 - Only basic tests to show how to possibly use them.
 
 
-*Projekt .UI
+*Projekt .<b>UI</b>
 
 LyncCallWindow
 - A simple WPF Window. Using Databindings and a simple grid.
