@@ -1,4 +1,4 @@
-# LyncCaller
+# lync-caller
 
 In this sample, it is shown how to youse LyncClient to start calls. 
 Therefore the MVVM Patteren is used aswell as Entity Framework
